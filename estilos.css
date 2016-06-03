@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-image: url(landscape.jpg);
+}
+
+
+
+#letras {
+    color: white;
+    font-family: sans-serif;
+    font-size: 50px;
+    letter-spacing: 10px;
+ 
+}
+
+
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
