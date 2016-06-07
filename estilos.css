@@ -3,7 +3,7 @@
 }
 
 body{
-    background-image: url(landscape.jpg);
+    background-image: url(esperanza.png);
 }
 
 #cabecera{
@@ -13,11 +13,14 @@ body{
     margin-bottom: 100px;
 }
 
-#letras {
+#words {
     color: white;
-    font-family: sans-serif;
-    font-size: 50px;
-    letter-spacing: 10px;
+    font-family: cursive;
+    font-size: 30px;
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 200px;
+    margin-left: 30px; 
  
 }
 
